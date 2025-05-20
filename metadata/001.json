@@ -1,15 +1,15 @@
 {
-  "name": "Bunny #1",
+  "name": "Dead Bunny #1",
   "description": "A fierce little bunny.",
-  "image": "https://rdfzjack.github.io/BunnyMoney/images/bunny_base.gif",
+  "image": "https://rdfzjack.github.io/BunnyMoney/images/bunny_dead.gif",
   "attributes": [
     {
       "trait_type": "Status",
-      "value": "Alive"
+      "value": "Dead"
     },
     {
       "trait_type": "Level",
-      "value": 1
+      "value": 0
     }
   ]
 }
