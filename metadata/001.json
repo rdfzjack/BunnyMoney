@@ -1,0 +1,15 @@
+{
+  "name": "Bunny #1",
+  "description": "A fierce little bunny.",
+  "image": "https://yourname.github.io/bunny-nft/images/bunny1.gif",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Alive"
+    },
+    {
+      "trait_type": "Level",
+      "value": 1
+    }
+  ]
+}
