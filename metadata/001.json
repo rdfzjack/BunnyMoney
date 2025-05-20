@@ -1,7 +1,7 @@
 {
   "name": "Bunny #1",
   "description": "A fierce little bunny.",
-  "image": "https://rdfzitz.github.io/BunnyMoney/images/bunny1.gif",
+  "image": "https://rdfzjack.github.io/BunnyMoney/images/bunny_base.gif",
   "attributes": [
     {
       "trait_type": "Status",
