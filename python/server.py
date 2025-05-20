@@ -20,7 +20,7 @@ def update_bunny():
 
     if new_status == "dead":
         metadata["name"] = f"Bunny #{token_id} (DEAD)"
-        metadata["image"] = "https://yourdomain.com/static/dead.gif"
+        metadata["image"] = "https://rdfzjack.github.io/BunnyMoney/images/bunny_dead.gif"
         metadata["description"] = "This bunny has died in battle."
 
     with open(file_path, "w") as f:
